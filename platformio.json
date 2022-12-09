@@ -1,18 +1,18 @@
 {
-	"name": "BLESender",
+	"name": "Log4Duino",
 	"version": "1.0.0",
-	"description": "Libary for sending temperature and specific gravity via ibeacon",
+	"description": "Libary for storing Logfiles in html format on SD-Card or SPIFFS",
   	"keywords": "Arduino, esp32, espressif32",
 	"repository":
 	{
 		"type": "git",
-		"url": "https://github.com/BonorumSoft/BLESender"
+		"url": "https://github.com/BonorumSoft/Log4Duino"
 	},
 	"authors":
 	{
 		"name": "Bonorum",
 		"email": "github_account@bonorum.company",
-		"url": "https://github.com/BonorumSoft/BLESender"
+		"url": "https://github.com/BonorumSoft/Log4Duino"
 	},
 	"license": "Creative Commons CC-BY-NC",
 	"frameworks": ["arduino"],
